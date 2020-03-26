@@ -1,0 +1,8 @@
+{
+  "name": "LocationAccuracy1",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
